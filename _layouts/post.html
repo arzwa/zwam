@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% include head.html %}
+<script type="text/javascript" src="{{ "/assets/js/jquery-3.2.1.min.js" }}"></script>
+<style media="screen">
+body {
+    text-align: left;
+}
+.header {
+  background-color:#cccccc;
+  padding: 2px;
+  cursor: pointer;
+  margin-top: 2px;
+  width: 100%;
+}
+.content {
+    width:100%;
+}
+</style>
+
+<div class='w3-col s12 m8 l8' style='padding:1px;'>
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+      </time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {% endif %}</p>
+  </header>
+
+  <div class="w3-col s12 m12 l12 post-content e-content vb-post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>
+</div>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript" ></script>
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>

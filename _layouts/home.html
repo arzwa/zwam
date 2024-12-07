@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% include head.html %}
+<script type="text/javascript" src="{{ "/assets/js/jquery-3.2.1.min.js" }}"></script>
+
+<div class='w3-col s12 m6 l4' style='padding:1px;'>
+  <div>
+      <h1>Zwam Zwaenepoel</h1>
+      Geboren uit de schoot van <b>Vyncke Katrien</b> en het zaad van
+      <b>Zwaenepoel Arthur</b>. Ergens verwacht rond 24 Februari 2025.
+  </div>
+  <div><button class="w3-button w3-block w3-padding-small w3-white"
+          onclick="open_all()">⇵ open/sluit</button>
+  </div>
+
+    {% for post in site.posts %}
+    <div class="header">{{ post.title }}</div>
+    <div class="content" >
+    {% if post.img %}
+      <a class="post-link" href="{{ post.url | relative_url }}"><img style="width:100%;" src="{{ "/assets/img/"  | append: post.img }}"></a>
+    {% else %}
+      <a class="post-link" href="{{ post.url | relative_url }}">
+    {% endif %}
+    <mark style="background-color:#ffffff;">{{ post.content | strip_html | truncatewords: 50 }}</mark>
+    {% if post.img %}
+    {% else %}
+      </a>
+    {% endif %}
+    </div>
+    {% endfor %}
+
+  {% for item in site.data.home.column_1 %}
+  <div class="header">
+    {{ item.title | escape }}
+  </div>
+  {% if item.open %}
+  <div>
+  {% else %}
+  <div class="content">
+  {% endif %}
+    <a class="post-link" href="{{ item.url | relative_url }}"><img style="width:100%;" src="{{ "/assets/img/"  | append: item.img }}"></a>
+    {% if item.caption %}
+    <mark style="background-color:#ffffff;">{{ item.caption }}</mark>
+    {% endif %}
+  </div>
+
+  {% endfor %}
+
+</div>
+
+<div class='w3-col s12 m6 l3' style='padding:1px;'>
+  {% for item in site.data.home.column_2 %}
+  <div class="header">
+    {{ item.title | escape }}
+  </div>
+  {% if item.open %}
+  <div>
+  {% else %}
+  <div class="content">
+  {% endif %}
+    <a class="post-link" href="{{ item.url | relative_url }}"><img style="width:100%;" src="{{ "/assets/img/"  | append: item.img }}"></a>
+    {% if item.caption %}
+    <mark style="background-color:#ffffff;">{{ item.caption }}</mark>
+    {% endif %}
+  </div>
+
+  {% endfor %}
+</div>
+
+<div class='w3-col s12 m6 l3' style='padding:1px;'>
+  {% for item in site.data.home.column_3 %}
+  <div class="header">
+    {{ item.title | escape }}
+  </div>
+  {% if item.open %}
+  <div>
+  {% else %}
+  <div class="content">
+  {% endif %}
+    <a class="post-link" href="{{ item.url | relative_url }}"><img style="width:100%;" src="{{ "/assets/img/"  | append: item.img }}"></a>
+    {% if item.caption %}
+    <mark style="background-color:#ffffff;">{{ item.caption }}</mark>
+    {% endif %}
+  </div>
+
+  {% endfor %}
+  <div style="text-align:right;">
+    <a href="faq"><b>FAQ/FGV</b></a>
+  </div>
+</div>
+
+<div class='w3-col s12 m6 l3' style='padding:1px;'>
+</div>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+    $(".content").hide();
+});
+
+$(".header").click(function () {
+    $header = $(this);
+    //getting the next element
+    $content = $header.next();
+    //open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
+    $content.slideToggle(500, function () {
+        //do domething
+    });
+});
+
+function change_bg() {
+    document.body.style.background = '#'+(0x1000000+(Math.random())*0xffffff).toString(16).substr(1,6);
+};
+
+function open_all() {
+    $(".content").slideToggle(500, function() {});
+};
+</script>
+
+
+
+</body>
+</html>
+
