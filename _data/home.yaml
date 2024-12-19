@@ -4,18 +4,22 @@ column_1:
     width: 100%
     open: true
     caption: Rechts vindt u wat wij nog nodig hebben of toch zeker kunnen
-      gebruiken (klik op de balkjes, en eventueel op de prenten).
+      gebruiken (klik op de balkjes, en eventueel op de prenten). Dat blijkt
+      al bij al zo veel niet meer te zijn.
       <br><br>
       Heeft u nog iets liggen dat we mogen hebben/gebruiken/overkopen, mail ons
-      dan. Wilt u ons ergens centen voor toestoppen, dan kan dat door storting
+      dan op <b>voornaam.achternaam@gmail.com</b> (werkt voor zowel Katrien als
+      Arthur).
+      Wilt u ons ergens centen voor toestoppen, dan kan dat door storting
       op <b>BE57 5230 4873 8535</b>, of cash in onze spaarpot in de
       <b>Korhoenstraat 35, 9000 Gent</b>.
 
   - img: zwam1.jpg
     open: false
 
-
 column_2:
+
+  - img: schot.jpg
 
   - title: Triptrap
     img: tripptrapp.jpg
@@ -23,6 +27,9 @@ column_2:
       vatbaar voor het <i><a
       href="https://en.wikipedia.org/wiki/Generic_trademark"> generic
       trademark</a></i> fenomeen.
+  
+  - img: kerst.jpg
+    open: true
 
   - img: trien.jpg
 
@@ -31,23 +38,22 @@ column_2:
     caption: Kwestie van dat hij vroeg genoeg een dino fascinatie heeft zodat hij niet met autootjes wil spelen
     img: dinos.jpg
 
-  - title: Fietskar
-    url: https://www.thule.com/nl-be/bike-trailers/bike-trailers-for-kids/thule-chariot-lite-single-_-10203021
-    img: fietskar.png
-    caption: 
-
   - title: Chocolade
     img: tony.jpg
   
-  - title:
-    url: https://www.amazon.fr/Guide-champignons-France-Guillaume-Eyssartier-dp-2410028810/dp/2410028810
-    img: guide.jpg
-    caption: Die heb ik nog niet, mag altijd!
+  - title: 
+    img: ardennen.jpg
+  
 
 column_3:
 
   - img: wij.jpg
     open: true
+
+  - title: Fietskar
+    url: https://www.thule.com/nl-be/bike-trailers/bike-trailers-for-kids/thule-chariot-lite-single-_-10203021
+    img: fietskar.png
+    caption: Van groot belang!
 
   - title: "Dinosaurs: a very short introduction"
     url: "https://www.boekwinkeltjes.nl/s/?q=dinosaurs+norman&zip=&dist=0&lang=&tl=&img=0&shfee=0&oud=0&t=1&n=1&prijsvan=0.00&prijstot="
@@ -56,7 +62,14 @@ column_3:
 
   - img: chester.jpg
   
+  - img: obscuur.jpg
+  
   - title: Fopspenen
     img: fopspeen.png
 
   - img: trienb.jpg
+
+  - title:
+    url: https://www.amazon.fr/Guide-champignons-France-Guillaume-Eyssartier-dp-2410028810/dp/2410028810
+    img: guide.jpg
+    caption: Die heb ik nog niet, mag altijd!
