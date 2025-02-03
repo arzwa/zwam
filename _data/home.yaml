@@ -44,6 +44,9 @@ column_2:
   - title: 
     img: ardennen.jpg
   
+  - title: Traphekjes
+    img: th.jpg
+    caption: Belangrijk! Maar hoe moet Chester dan boven/beneden geraken. 
 
 column_3:
 
@@ -64,9 +67,21 @@ column_3:
   
   - img: obscuur.jpg
   
+  - title: Klamboe
+    img: klamboe.jpg
+    caption: Tof, zo'n klamboe!
+
+  - title: Packing cubes?
+    img: pc.jpg
+    caption: https://en.wikipedia.org/wiki/Packing_cube. Had ik ook nog noot
+      van gehoord, is om al ons gerief te ordenen.
+  
   - title: Fopspenen
     img: fopspeen.png
 
+  - title: Droogkast
+    img: dk.jpg
+    caption: Een stille, die geen luchtafvoer nodig heeft.
   - img: trienb.jpg
 
   - title:
