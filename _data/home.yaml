@@ -11,8 +11,9 @@ column_1:
       dan op <b>voornaam.achternaam@gmail.com</b> (werkt voor zowel Katrien als
       Arthur).
       Wilt u ons ergens centen voor toestoppen, dan kan dat door storting
-      op <b>BE57 5230 4873 8535</b>, of cash in onze spaarpot in de
-      <b>Korhoenstraat 35, 9000 Gent</b>.
+      op <b>BE65 9735 1215 6596</b>, of cash in onze spaarpot in de
+      <b>Korhoenstraat 35, 9000 Gent</b>.<br><br>
+      Foto's volgen zodra het eerste rolletje ontwikkeld is -- geduld.
 
   - img: zwam1.jpg
     open: false
@@ -33,6 +34,10 @@ column_2:
 
   - img: trien.jpg
 
+  - title: Verdere details
+    img: no-img.jpg
+    caption: Bij geboorte woog Bruno 3.780 kg, en mat hij 51.5 cm. 
+
   - title: Plastieken dino's
     url: https://www.amazon.com/BOLEY-Monster-15-Pack-Large-Dinosaurs/dp/B06XS3RZ4Z?dib=eyJ2IjoiMSJ9._B1oE-3_Qj6--xvQrVZzziFrxWOkVzzAGXeTmXdGFivq51bF6-D3b-H-OSGvMVFV94VgwCGDV00sQLHXzWyUCo6O32wpjzrwLK3jrWy9ZbEtqRQPHx3nMbBYK8hFvarDj4SYVpVft2jxy5fsk2K3qUxiG0omRfcICedVUwiEiFKPxN5Ubh-tZgOWRds8pKekCNsO-W-71iZnMnoVy1TJnEt-7VN7t8XweXjyqk_DL2fBYPharhpGQAv02IfycqN8xRgL3PcVUC9J5Pn1YTXHfbqcF18lF_fM9f9HhxmIpPE.WaBJGkm5vNv5antHqqCg0rOUaJXgWML1Soa3_JSUWEI&dib_tag=se&keywords=plastic+dinosaurs&qid=1732873658&sr=8-16
     caption: Kwestie van dat hij vroeg genoeg een dino fascinatie heeft zodat hij niet met autootjes wil spelen
@@ -49,6 +54,14 @@ column_2:
     caption: Belangrijk! Maar hoe moet Chester dan boven/beneden geraken. 
 
 column_3:
+
+  - title: "Bruno"
+    img: no-img.jpg
+    caption: Een wikipedia search zal u leren dat "Bruno" een nogal
+      pan-europese naam is met een omvangrijke lijst van historische
+      naamgenoten (fijne en minder fijne mensen).
+      Enkele vermeldenswaardige daaruit zijn st. Bruno van Keulen,
+      Giordano Bruno, Bruno Latour en Bruno de Finetti.
 
   - img: wij.jpg
     open: true
@@ -75,9 +88,6 @@ column_3:
     img: pc.jpg
     caption: https://en.wikipedia.org/wiki/Packing_cube. Had ik ook nog noot
       van gehoord, is om al ons gerief te ordenen.
-  
-  - title: Fopspenen
-    img: fopspeen.png
 
   - title: Droogkast
     img: dk.jpg
