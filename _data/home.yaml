@@ -19,6 +19,17 @@ column_1:
     open: false
 
 column_2:
+  
+  - title: Verdere details over Bruno
+    img: no-img.jpg
+    caption: 
+      "<b>Volledige naam</b>: Bruno Patrick Zwam Zwaenepoel.<br>
+       Bij geboorte woog Bruno <b>3.780 kg</b>, en mat hij <b>51.5 cm</b>.<br>
+       De <b>meter</b> is Fien Foubert.<br>
+       De <b>peter</b> is Brent Sprangers." 
+ 
+  - img: kerst.jpg
+    open: true
 
   - img: schot.jpg
 
@@ -28,15 +39,8 @@ column_2:
       vatbaar voor het <i><a
       href="https://en.wikipedia.org/wiki/Generic_trademark"> generic
       trademark</a></i> fenomeen.
-  
-  - img: kerst.jpg
-    open: true
 
   - img: trien.jpg
-
-  - title: Verdere details
-    img: no-img.jpg
-    caption: Bij geboorte woog Bruno 3.780 kg, en mat hij 51.5 cm. 
 
   - title: Plastieken dino's
     url: https://www.amazon.com/BOLEY-Monster-15-Pack-Large-Dinosaurs/dp/B06XS3RZ4Z?dib=eyJ2IjoiMSJ9._B1oE-3_Qj6--xvQrVZzziFrxWOkVzzAGXeTmXdGFivq51bF6-D3b-H-OSGvMVFV94VgwCGDV00sQLHXzWyUCo6O32wpjzrwLK3jrWy9ZbEtqRQPHx3nMbBYK8hFvarDj4SYVpVft2jxy5fsk2K3qUxiG0omRfcICedVUwiEiFKPxN5Ubh-tZgOWRds8pKekCNsO-W-71iZnMnoVy1TJnEt-7VN7t8XweXjyqk_DL2fBYPharhpGQAv02IfycqN8xRgL3PcVUC9J5Pn1YTXHfbqcF18lF_fM9f9HhxmIpPE.WaBJGkm5vNv5antHqqCg0rOUaJXgWML1Soa3_JSUWEI&dib_tag=se&keywords=plastic+dinosaurs&qid=1732873658&sr=8-16
@@ -58,10 +62,14 @@ column_3:
   - title: "Bruno"
     img: no-img.jpg
     caption: Een wikipedia search zal u leren dat "Bruno" een nogal
-      pan-europese naam is met een omvangrijke lijst van historische
-      naamgenoten (fijne en minder fijne mensen).
-      Enkele vermeldenswaardige daaruit zijn st. Bruno van Keulen,
-      Giordano Bruno, Bruno Latour en Bruno de Finetti.
+      pan-europese naam is met een omvangrijke lijst van 
+      <a href="https://en.wikipedia.org/wiki/Bruno_(name)">historische
+      naamgenoten</a> (fijne en minder fijne mensen).
+      Enkele (volgens Arthur) vermeldenswaardige daaruit zijn
+      <a href="https://en.wikipedia.org/wiki/Bruno_of_Cologne">St. Bruno van Keulen</a>, 
+      <a href="https://en.wikipedia.org/wiki/Giordano_Bruno"> Giordano Bruno</a>, 
+      <a href="https://en.wikipedia.org/wiki/Bruno_Latour">Bruno Latour</a> en
+      <a href="https://en.wikipedia.org/wiki/Bruno_de_Finetti">Bruno de Finetti</a>.
 
   - img: wij.jpg
     open: true
@@ -98,3 +106,5 @@ column_3:
     url: https://www.amazon.fr/Guide-champignons-France-Guillaume-Eyssartier-dp-2410028810/dp/2410028810
     img: guide.jpg
     caption: Die heb ik nog niet, mag altijd!
+
+
