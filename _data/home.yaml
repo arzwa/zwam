@@ -78,9 +78,9 @@ column_3:
       <a href="https://en.wikipedia.org/wiki/Bruno_de_Finetti">Bruno de Finetti</a>.
   
   - img: chester.jpg
+    open: true
 
   - img: bruno5b.jpg
-    open: true
 
   - title: Fietskar
     url: https://www.thule.com/nl-be/bike-trailers/bike-trailers-for-kids/thule-chariot-lite-single-_-10203021
