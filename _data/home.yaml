@@ -31,6 +31,9 @@ column_2:
   - img: bruno2.jpg
     open: true
   
+  - img: wij2.jpg
+    open: false
+  
   - img: kerst.jpg
     open: false
 
@@ -98,7 +101,7 @@ column_3:
 
   - title: Packing cubes?
     img: pc.jpg
-    caption: https://en.wikipedia.org/wiki/Packing_cube. Had ik ook nog noot
+    caption: https://en.wikipedia.org/wiki/Packing_cube. Had ik ook nog nooit
       van gehoord, is om al ons gerief te ordenen.
 
   - title: Droogkast

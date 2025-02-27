@@ -13,14 +13,13 @@ verwarren met "Scouts en Gidsen Vlaanderen".
 (2) **Waarom Zwam? Ge gaat uw kind toch voorzekers niet zwam noemen!?**
 
 In de herfst van 2024, toen Katrien dus zwanger was, was ik (Arthur) nogal
-in de ban van paddenstoelen (zwammen dus). De alliteratie met
-Zwaenepoel was mij natuurlijk niet ontgaan, en niet meer instaat om enige
-associatie van Zwam met slijmerige, giftige, schimmelige, stinkende viezigheid
-te ontwaren in mijn denken, begon ik dat toch eigenlijk een zeer schone naam te
-vinden. Nu ben ik akkoord met menig medemens dat het misschien wat gewaagd is.
-'Zwam' is gaandeweg in gebruik geraakt als een tijdelijke *placeholder* naam,
-en wordt niet langer serieus overwogen.
+in de ban van paddenstoelen (zwammen dus). De welluidende alliteratie met
+Zwaenepoel was mij natuurlijk niet ontgaan, en niet meer instaat om "Zwam" 
+met slijmerige, giftige, schimmelige, stinkende viezigheid te associëren, begon
+ik dat toch eigenlijk een zeer schone naam te vinden. Nu ben ik akkoord met
+menig medemens dat het misschien wat gewaagd is. Niettemin, 'Zwam' is gaandeweg
+in gebruik geraakt als een tijdelijke *placeholder* naam.
 
 (3) **Hoe gaan jullie hem dan wel noemen?**
 
-Bruno Patrick Zwam Zwaenepoel
+Bruno Patrick Zwam Zwaenepoel.
