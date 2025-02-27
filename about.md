@@ -23,3 +23,9 @@ in gebruik geraakt als een tijdelijke *placeholder* naam.
 (3) **Hoe gaan jullie hem dan wel noemen?**
 
 Bruno Patrick Zwam Zwaenepoel.
+
+(4) **Copyright?**
+
+Voor de (eigen) foto's op `www.zwam.baby` zijn alle rechten voorbehouden:
+Copyright Arthur Zwaenepoel © 2025, All Rights Reserved.
+
